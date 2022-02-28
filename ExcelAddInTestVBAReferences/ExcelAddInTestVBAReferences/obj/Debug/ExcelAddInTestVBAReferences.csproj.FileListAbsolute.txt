@@ -1,0 +1,12 @@
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\bin\Debug\ExcelAddInTestVBAReferences.dll
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\bin\Debug\ExcelAddInTestVBAReferences.pdb
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\bin\Debug\ExcelAddInTestVBAReferences.dll.manifest
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\bin\Debug\ExcelAddInTestVBAReferences.vsto
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\obj\Debug\ExcelAddInTestVBAReferences.csproj.AssemblyReference.cache
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\obj\Debug\ExcelAddInTestVBAReferences.Properties.Resources.resources
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\obj\Debug\ExcelAddInTestVBAReferences.csproj.GenerateResource.cache
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\obj\Debug\ExcelAddInTestVBAReferences.csproj.CoreCompileInputs.cache
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\obj\Debug\ExcelAddInTestVBAReferences.csproj.CopyComplete
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\obj\Debug\ExcelAddInTestVBAReferences.dll
+D:\github\vba_excel-addins-lab\ExcelAddInTestVBAReferences\ExcelAddInTestVBAReferences\obj\Debug\ExcelAddInTestVBAReferences.pdb
